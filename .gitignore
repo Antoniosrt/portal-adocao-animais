@@ -1,0 +1,4 @@
+uploads/animais/*
+!uploads/animais/.gitkeep
+setup_db.bat
+config/Database.php
